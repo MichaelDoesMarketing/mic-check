@@ -62,23 +62,23 @@ And **perform it**, which lays your copy over a flow with the bar breaks marked,
 
 ## Real demo: I ran it on my own GitHub profile
 
-The thing at the top of [my profile](https://github.com/MichaelDoesMarketing). Live right now, written carefully, listing all seven of these skills.
+The thing at the top of [my profile](https://github.com/MichaelDoesMarketing). Live right now, written carefully, listing every skill I've shipped.
 
-**39 sentences. Overall 4.1 out of 5. Verdict: it plays.**
+**43 sentences. Overall 4.1 out of 5. Verdict: it plays.**
 
 Then the flags:
 
 ```
-No air    s21: 30 syllables with no break.
-No air    s27: 22 syllables with no break.
-No air    s32: 22 syllables with no break.
+No air    s25: 30 syllables with no break.
+No air    s31: 22 syllables with no break.
+No air    s36: 22 syllables with no break.
 Drone     s1-s3:   3 sentences within 3 syllables of each other.
-Stacked   s27-s29: 3 heavy sentences, no relief between them.
+Stacked   s31-s33: 3 heavy sentences, no relief between them.
 ```
 
-Three sentences in there that no human can say in one go, inside a document that scored well. This is the whole argument for reading flags instead of totals. A good average is thirty-six fine sentences carrying three broken ones, and the broken ones are where people stop.
+Three sentences in there that no human can say in one go, inside a document that scored well. This is the whole argument for reading flags instead of totals. A good average is forty fine sentences carrying three broken ones, and the broken ones are where people stop.
 
-They cluster, too. Every skill on that list gets a bolded name, then one long explanatory sentence. Seven times in a row.
+They cluster, too. Nearly every skill on that list gets a bolded name, then one long explanatory sentence. Over and over.
 
 Pull the three worst entries out as their own block and the damage shows up in the score. **2.7 out of 5. Breath at 2.**
 
