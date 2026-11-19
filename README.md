@@ -26,7 +26,7 @@ There's a Python script in the folder. No dependencies. Takes a file or stdin, r
 
 Out comes a rhythm chart, flags with line numbers, and scores on five axes: breath, variance, landing, room, and open. The overall weights the lowest axis double. On purpose. A draft with one fatal problem shouldn't average out to fine.
 
-Calibration check, on the most famous paragraph in writing advice. Gary Provost's bad example scores **1.9**. His good example scores **4.2**. Same instrument, no thumb on the scale.
+Calibration check, on the most famous paragraph in writing advice. Gary Provost's bad example scores **2.0**. His good example scores **4.3**. Same instrument, no thumb on the scale.
 
 Under four sentences it refuses to score at all. It tells you to read the thing out loud instead, because variance on a headline is a confident wrong answer.
 
