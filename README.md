@@ -64,7 +64,7 @@ And **perform it**, which lays your copy over a flow with the bar breaks marked,
 
 The thing at the top of [my profile](https://github.com/MichaelDoesMarketing). Live right now, written carefully, listing every skill I've shipped.
 
-**43 sentences. Overall 4.1 out of 5. Verdict: it plays.**
+**48 sentences. Overall 4.1 out of 5. Verdict: it plays.**
 
 Then the flags:
 
@@ -76,7 +76,7 @@ Drone     s1-s3:   3 sentences within 3 syllables of each other.
 Stacked   s31-s33: 3 heavy sentences, no relief between them.
 ```
 
-Three sentences in there that no human can say in one go, inside a document that scored well. This is the whole argument for reading flags instead of totals. A good average is forty fine sentences carrying three broken ones, and the broken ones are where people stop.
+Three sentences in there that no human can say in one go, inside a document that scored well. This is the whole argument for reading flags instead of totals. A good average is forty-five fine sentences carrying three broken ones, and the broken ones are where people stop.
 
 They cluster, too. Nearly every skill on that list gets a bolded name, then one long explanatory sentence. Over and over.
 
