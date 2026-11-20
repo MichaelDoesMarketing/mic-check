@@ -108,4 +108,4 @@ And it still says *passes, barely*, because variance on a ten-sentence block is 
 
 ## License
 
-MIT. Michael Daughters.
+MIT. Use it, fork it, ship it.
